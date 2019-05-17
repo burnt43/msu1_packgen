@@ -1,0 +1,93 @@
+track_def: alttp
+directory: /home/jcarson/msu1_audio/n64/mystical_ninja_starring_goemon
+map:
+  triforce_title_screen: 0001_theme_of_mystical_ninja
+  lightworld:            0007_the_journey_begins_on_mt_fuji_road
+  rain:                  0025_our_kidnapped_kids_
+  darkworld_bunny:       0044_the_deep_flickering_white_shadow
+  lost_woods:            0020_ancient_bamboo
+  introduction:          0017_secret_ninja_agent
+  kakariko:              0004_flowery_oedo_the_lost_village
+  portal:                0099_sfx_kce_logo
+  darkworld_moon_pearl:  0048_hot_blooded_man_c
+  master_sword:          0035_battery_of_the_heart
+  file_select:           0021_heartbeat_bossa_nova
+  guards:                0041_crisis
+  skull_dark_death:      0024_stairs_of_regret
+  minigame:              0039_oni_oni_redezvous
+  title_screen:          0002_i_am_impact
+  hyrule_castle:         0009_rescue_the_feudal_lord_b
+  pendant_dungeon:       0028_childhood_toy_behind_you_c
+  cave_1:                0022_blue_sky_blue_dragon_a
+  dungeon_cleared:       0016_another_win_for_us
+  sanctuary:             0050_holy_ground_pemopemo
+  boss:                  0029_heartbreak_corlin
+  crystal_dungeon:       0037_use_the_ice_kunai_on_the_foxs_fire_c
+  fortune_teller:        0006_secrets_of_old_man_plasma
+  cave_2:                0033_within_the_burning_sands
+  zelda_rescued:         0013_the_lord_and_princess_yuki
+  crystal_acquired:      0012_easy_victory_get_a_way
+  fairy:                 0047_airy_mermaid
+  ganon_theme:           0030_domineering_march
+  ganon_appears:         0009x_dark_de_bad_na_easy_yo_without_intro
+  face_to_face:          0009x_dark_de_bad_na_easy_yo_without_intro
+  ganon_battle:          0053_goe_goe_spark
+# credits:               0052_sogen_street
+alternates:
+  lightworld:
+    - 0009x_kai_highway_other_intro_1
+    - 0009x_kai_highway_other_intro_2
+    - 0019_yamato
+    - 0026_sunset_want_you
+  introduction:
+    - 0003_it_happened_on_an_ordinary_day_part_1
+    - 0003_it_happened_on_an_ordinary_day_part_2
+    - 0003_it_happened_on_an_ordinary_day_part_4
+  kakariko:
+    - 0005_buy_or_leave
+    - 0031_farm_village_legend
+    - 0043_the_melting_snow_goes_along_with_the_festival
+  darkworld_moon_pearl:
+    - 0048_hot_blooded_man_b
+    - 0048_hot_blooded_man_a
+    - 0032_udon_kotarou
+  minigame:
+    - 0009x_apparition_in_the_middle_of_the_lake_without_intro
+    - 0027_fallen_food_mini_ebisu
+    - 0042_bucchigiri_banzai
+    - 0046_waterfall_of_kegon
+    - 0049_apparition_in_the_middle_of_the_lake
+  hyrule_castle:
+    - 0009_rescue_the_feudal_lord_a
+  pendant_dungeon:
+    - 0028_childhood_toy_behind_you_b
+    - 0028_childhood_toy_behind_you_a
+  cave_1:
+    - 0022_blue_sky_blue_dragon_b
+    - 0022_blue_sky_blue_dragon_c
+    - 0008_wait_a_sec_im_coming
+    - 0033_within_the_burning_sands
+    - 0036_depths_of_darkness
+    - 0045_come_baby_come
+  sanctuary:
+    - 0018_a_zen_spirit_burns_crimson
+  boss:
+    - 0011_im_warning_you_youll_get_burned
+    - 0014_a_disaster
+    - 0015_warriors
+    - 0038_ghost_attack
+    - 0055_little_baby_sleepin
+  crystal_dungeon:
+    - 0037_use_the_ice_kunai_on_the_foxs_fire_b
+    - 0037_use_the_ice_kunai_on_the_foxs_fire_a
+  fortune_teller:
+    - 0010_voluptuous_cauliflower
+  crystal_acquired:
+    - 0054_gorgeous_my_stage
+    - 0023_twilight_koryuta
+  fairy:
+    - 0034_gods_giant_tree
+  ganon_theme:
+    - 0009x_dark_de_bad_na_easy_yo_without_intro
+  ganon_battle:
+    - 0051_kabuking

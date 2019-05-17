@@ -1,0 +1,36 @@
+track_def: alttp
+directory: /home/jcarson/msu1_audio/nes/legacy_of_the_wizard/pcm
+map:
+  triforce_title_screen: 0010_title_screen
+  lightworld:            0013_near_home
+  rain:                  0001_dungeon_entrance
+  darkworld_bunny:       0002_warriors_theme
+  lost_woods:            0009_deaths_theme
+  introduction:          0010_title_screen
+  kakariko:              0008_welcome
+  portal:                0015_treasure_chest
+  darkworld_moon_pearl:  0004_elfs_theme
+  master_sword:          0009_deaths_theme
+  file_select:           0007_worzen_family
+  guards:                0011_dragon_slayers
+  skull_dark_death:      0016_unknown_bonus_track
+  minigame:              0012_guardian_of_the_crown
+  title_screen:          0010_title_screen
+  hyrule_castle:         0002_warriors_theme
+  pendant_dungeon:       0001_dungeon_entrance
+  cave_1:                0005_monsters_theme
+  dungeon_cleared:       0007_worzen_family
+  sanctuary:             0014_preparations
+  boss:                  0006_king_dragon_keela
+  crystal_dungeon:       0003_wizards_theme
+  fortune_teller:        0009_deaths_theme
+  cave_2:                0005_monsters_theme
+  zelda_rescued:         0007_worzen_family
+  crystal_acquired:      0007_worzen_family
+  fairy:                 0014_preparations
+  ganon_theme:           0009_deaths_theme
+  ganon_appears:         0009_deaths_theme
+  face_to_face:          0009_deaths_theme
+  ganon_battle:          0016_unknown_bonus_track
+# credits:               ???
+alternates:

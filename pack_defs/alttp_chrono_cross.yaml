@@ -1,0 +1,87 @@
+track_def: alttp
+directory: /home/jcarson/msu1_audio/psx/chrono_cross/pcm
+map:
+  triforce_title_screen: 0101_chrono_cross_times_scar
+  lightworld:            0211_chrono_main_theme
+  rain:                  0123_death_volcano
+  darkworld_bunny:       0214_isle_of_the_damned
+  lost_woods:            0114_shadow_forest
+  introduction:          0310_frozen_flame
+  kakariko:              0118_another_guldove
+  portal:                0201a_start_of_the_dream_intro_phrase_only
+  darkworld_moon_pearl:  0107_dream_of_the_shore_bordering_another_world
+  master_sword:          0226a_magical_dreamers_the_wind_stars_and_waves_intro
+  file_select:           0113_leaving_the_body
+  guards:                0220_gale
+  skull_dark_death:      0119_hydra_marshes
+  minigame:              0208_zelbess
+  title_screen:          0216_people_seized_with_life
+  hyrule_castle:         0204_dragonrider
+  pendant_dungeon:       0302_chronopolis
+  cave_1:                0111_drowning_valley
+  dungeon_cleared:       0116a_victory_springs_gift_intro_only
+  sanctuary:             0202_cleft_of_dimension
+  boss:                  0102_the_brink_of_death
+  crystal_dungeon:       0303_fates_gods_of_destiny
+  fortune_teller:        0209_the_big_admirable_mysterious_sleight_of_hand_group
+  cave_2:                0115_viper_manor
+  zelda_rescued:         0116a_victory_springs_gift_intro_only
+  crystal_acquired:      0116a_victory_springs_gift_intro_only
+  fairy:                 0301_garden_of_the_gods
+  ganon_theme:           0305_orphan_of_flame
+  ganon_appears:         0305_orphan_of_flame
+  face_to_face:          0305_orphan_of_flame
+  ganon_battle:          0311_dragon_god
+# credits:               0307_time_of_the_dreamwatch
+alternates:
+  lightworld:
+    - 0104_times_grasslands_home_world
+    - 0121_voyage_another_world
+    - 0205_voyage_home_world
+  lost_woods:
+    - 0105_dancing_the_tokage
+  introduction:
+    - 0110_lost_fragments
+    - 0217_previously_lost_hopes
+    - 0306_the_star_stealing_girl
+  kakariko:
+    - 0103_home_village_arni
+    - 0108_another_arni_village
+    - 0112_another_termina
+    - 0206_home_guldove
+  master_sword:
+    - 0210_nap
+  minigame:
+    - 0213_optimism
+  hyrule_castle:
+    - 0203_home_termina
+  pendant_dungeon:
+    - 0215_dead_sea_tower_of_ruin
+    - 0218_earth_dragons_island
+  cave_1:
+    - 0115_viper_manor
+    - 0117_lost_child_of_time
+    - 0122_phantom_ship
+    - 0308_dragons_prayer
+  sanctuary:
+    - 0109_he_sang_of_feeling
+  crystal_dungeon:
+    - 0219_gaias_navel
+    - 0212_predicament
+    - 0124_ancient_dragons_fort
+  fairy:
+    - 0304_jellyfish_sea
+    - 0106_reminiscence_feelings_not_erased
+    - 0120_dreams_creation
+    - 0207_home_marbule
+    - 0222_another_marbule
+    - 0316_fragments_of_dreams
+  ganon_theme:
+    - 0309_tower_of_stars
+  credits:
+    - 0312_into_a_time_of_darkness.wav  
+    - 0226b_magical_dreamers_the_wind_stars_and_waves_main
+    - 0221_victory_summers_cry
+    - 0116_victory_springs_gift
+    - 0313_life_faraway_promise
+    - 0315_radical_dreamers_without_taking_the_jewel_vocal
