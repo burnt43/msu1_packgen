@@ -1,0 +1,94 @@
+track_def: alttpr
+directory: /home/jcarson/msu1_audio/psx/chrono_cross/pcm
+map:
+  opening_theme:           0101_chrono_cross_times_scar
+  light_world_overworld:   0211_chrono_main_theme
+  rain_overworld:          0117_lost_child_of_time
+  bunny_overworld:         0213_optimism
+  lost_woods:              0114_shadow_forest
+  prologue:                0109_he_sang_of_feeling
+  kakariko:                0103_home_village_arni
+  portal:                  0223_fairies_make_way_for_magic
+  dark_world_overworld:    0107_dream_of_the_shore_bordering_another_world
+  pull_pedastal:           0210_nap
+  file_select:             0113_leaving_the_body
+  guards_summoned:         0102_the_brink_of_death
+  dark_death_mountain:     0123_death_volcano
+  minigame:                0208_zelbess
+  skull_woods_overworld:   0308_dragons_prayer
+  castle:                  0204_dragonrider
+  # light_world_dungeon:   17 
+  cave1:                   0111_drowning_valley
+  boss_victory:            0116a_victory_springs_gift_intro_only
+  sanctuary:               0202_cleft_of_dimension
+  boss:                    0220_gale
+  # dark_world_dungeon:    22 
+  fortune_teller:          0209_the_big_admirable_mysterious_sleight_of_hand_group
+  cave2:                   0111_drowning_valley
+  # zelda_rescue:          25                           # unused in rando
+  crystal_cutscene:        0217_previously_lost_hopes   # only start used in rando
+  fairy_fountain:          0301_garden_of_the_godsj
+  agahnims_theme1:         0305_orphan_of_flame         # top floor of castle tower
+  ganon_reveal:            0312_into_a_time_of_darkness # after agahnim 2
+  agahnims_theme2:         0305_orphan_of_flame         # drop in to ganon
+  ganon_fight:             0311_dragon_god
+  triforce_room:           0314_reminiscence_feelings_not_erased
+  ending_sequence:         0112_another_termina
+  credits:                 0315_radical_dreamers_without_taking_the_jewel_vocal
+  # dungeons
+  eastern_palace:          0212_predicament
+  desert_palace:           0218_earth_dragons_island 
+  agahnims_tower:          0303_fates_gods_of_destiny
+  swamp_palace:            0119_hydra_marshes
+  palace_of_darkness:      0115_viper_manor
+  misery_mire:             0219_gaias_navel
+  skull_woods:             0214_isle_of_the_damned 
+  ice_palace:              0310_frozen_flame
+  tower_of_hera:           0215_dead_sea_tower_of_ruin
+  thieves_town:            0302_chronopolis
+  turtle_rock:             0124_ancient_dragons_fort
+  ganons_tower:            0309_tower_of_stars 
+  # bosses
+  # eastern_palace_boss:     47 
+  # desert_palace_boss:      48 
+  # agahnims_tower_boss:     49 
+  # swamp_palace_boss:       50 
+  # palace_of_darkness_boss: 51 
+  # misery_mire_boss:        52 
+  # skull_woods_boss:        53 
+  # ice_palace_boss:         54 
+  # tower_of_hera_boss:      55 
+  # thieves_town_boss:       56 
+  # turtle_rock_boss:        57 
+  # ganons_tower_boss:       58 
+  # extra
+  ganons_tower2:           0307_time_of_the_dreamwatch  # after big key is found
+  light_world_overworld2:  0205_voyage_home_world       # after pedastal
+  dark_world_overworld2:   0216_people_seized_with_life # after 7 crystals
+alternates:
+  light_world_overworld:
+    - 0104_times_grasslands_home_world
+    - 0121_voyage_another_world
+    - 0222_another_marbule
+  kakariko:
+    - 0108_another_arni_village
+    - 0118_another_guldove
+    - 0203_home_termina
+    - 0206_home_guldove
+    - 0207_home_marbule
+  portal:
+    - 0201a_start_of_the_dream_intro_phrase_only
+  file_select:
+    - 0109_he_sang_of_feeling
+  ending_sequence:
+    - 0226b_magical_dreamers_the_wind_stars_and_waves_main
+  credits:
+    - 0106_reminiscence_feelings_not_erased
+    - 0120_dreams_creation
+    - 0306_the_star_stealing_girl
+    - 0313_life_faraway_promise
+    - 0316_fragments_of_dreams
+unused:
+  - 0105_dancing_the_tokage
+  - 0122_phantom_ship
+  - 0304_jellyfish_sea

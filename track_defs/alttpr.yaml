@@ -1,0 +1,65 @@
+# default
+opening_theme:           1 
+light_world_overworld:   2 
+rain_overworld:          3 
+bunny_overworld:         4 
+lost_woods:              5 
+prologue:                6 
+kakariko:                7 
+portal:                  8 
+dark_world_overworld:    9 
+pull_pedastal:           10 
+file_select:             11 
+guards_summoned:         12 
+dark_death_mountain:     13 
+minigame:                14 
+skull_woods_overworld:   15 
+castle:                  16 
+light_world_dungeon:     17 
+cave1:                   18 
+boss_victory:            19 
+sanctuary:               20 
+boss:                    21 
+dark_world_dungeon:      22 
+fortune_teller:          23 
+cave2:                   24 
+zelda_rescue:            25 # unused in rando
+crystal_cutscene:        26 # only start used in rando
+fairy_fountain:          27 
+agahnims_theme1:         28 # top floor of castle tower
+ganon_reveal:            29 # after agahnim 2
+agahnims_theme2:         30 # drop in to ganon
+ganon_fight:             31 
+triforce_room:           32 
+ending_sequence:         33 
+credits:                 34 
+# dungeons
+eastern_palace:          35 
+desert_palace:           36 
+agahnims_tower:          37 
+swamp_palace:            38 
+palace_of_darkness:      39 
+misery_mire:             40 
+skull_woods:             41 
+ice_palace:              42 
+tower_of_hera:           43 
+thieves_town:            44 
+turtle_rock:             45 
+ganon_tower:             46 
+# bosses
+eastern_palace_boss:     47 
+desert_palace_boss:      48 
+agahnims_tower_boss:     49 
+swamp_palace_boss:       50 
+palace_of_darkness_boss: 51 
+misery_mire_boss:        52 
+skull_woods_boss:        53 
+ice_palace_boss:         54 
+tower_of_hera_boss:      55 
+thieves_town_boss:       56 
+turtle_rock_boss:        57 
+# extra
+ganons_tower:            58 
+ganons_tower2:           59 # after big key is found
+light_world_overworld2:  60 # after pedastal
+dark_world_overworld2:   61 # after 7 crystals
