@@ -27,7 +27,7 @@ map:
   cave2:                   0111_drowning_valley
   # zelda_rescue:          25                           # unused in rando
   crystal_cutscene:        0217_previously_lost_hopes   # only start used in rando
-  fairy_fountain:          0301_garden_of_the_godsj
+  fairy_fountain:          0301_garden_of_the_gods
   agahnims_theme1:         0305_orphan_of_flame         # top floor of castle tower
   ganon_reveal:            0312_into_a_time_of_darkness # after agahnim 2
   agahnims_theme2:         0305_orphan_of_flame         # drop in to ganon

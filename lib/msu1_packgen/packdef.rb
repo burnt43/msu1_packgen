@@ -24,6 +24,8 @@ class Msu1Packgen::Packdef
         configured_filename
       end
 
-    dir_path.join("#{partial_filename}.pcm")
+    if partial_filename
+      dir_path.join("#{partial_filename}.pcm")
+    end
   end
 end

@@ -5,10 +5,20 @@ class Msu1Packgen::Generator
 
   def run!
     trackdef.track_name_to_number_mapping.each do |track_name, track_number|
-      puts packdef.path_for_track_name(track_name, randomize_alternates: randomize_alternates?)
-      puts dest_file_path(track_number)
+      origin_pathname = packdef.path_for_track_name(
+        track_name,
+        randomize_alternates: randomize_alternates?
+      )
 
-      # TODO: write cp command here
+      unless origin_pathname
+        puts_info("skipping #{track_name}...")
+        next
+      end
+
+      destination_pathname = dest_file_path(track_number)
+
+      puts_info("cp #{origin_pathname.to_s} #{destination_pathname.to_s}")
+      FileUtils.cp(origin_pathname, destination_pathname)
     end
   end
 

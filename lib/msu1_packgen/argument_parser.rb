@@ -45,13 +45,9 @@ class Msu1Packgen::ArgumentParser
 
     def validate_options(options)
       unless options.packdef
-        print_error("PACKDEF is required")
+        puts_error("PACKDEF is required")
+        exit 1
       end
-    end
-
-    def print_error(msg)
-      puts "[\033[0;31mERROR\033[0;0m] - #{msg}"
-      exit 1
     end
   end
 end
